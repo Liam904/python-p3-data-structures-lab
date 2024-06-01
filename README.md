@@ -102,9 +102,9 @@ For example:
 
 ```py
 print_spicy_foods(spicy_foods)
-# => Green Curry (Thai) | Heat Level: 🌶🌶🌶🌶🌶🌶🌶🌶🌶
+# => Green Curry (Thai) | Heat Level: 🌶🌶🌶🌶🌶🌶🌶🌶
 # => Buffalo Wings (American) | Heat Level: 🌶🌶🌶
-# => Mapo Tofu (Sichuan) | Heat Level: 🌶🌶🌶🌶🌶🌶
+# => Mapo Tofu (Sichuan) | Heat Level: 🌶🌶🌶🌶🌶
 ```
 
 [string times]: https://linuxhint.com/how-do-you-repeat-a-string-n-times-in-python/#:~:text=In%20Python%2C%20we%20utilize%20the,n%20(number)%20of%20times.
